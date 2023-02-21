@@ -40,8 +40,8 @@
 2. Make changes in your own repository 
    - Students to fill the lines below, commit and push the changes
    
-         Year of study: 
-         Number of lectures today:
+         Year of study: 4
+         Number of lectures today: 2
 
 # Prerequisites for the following practicals 
 
